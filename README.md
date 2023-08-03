@@ -1,2 +1,3 @@
 # NetflixCloneB
-link- https://github.com/Rishikarathore0601/NetflixCloneB.git
+link- https://netflix-clone-bi.vercel.app/
+
